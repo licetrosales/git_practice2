@@ -9,7 +9,7 @@ more text with two line breaks between
 - third time
   - indented
       1. innernumber
-      
+      2. innernumber2
 [this is the description](http://www.github.com)
 
 This paragraph has some `variable` inline code.
